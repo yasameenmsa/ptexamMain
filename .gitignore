@@ -1,0 +1,8 @@
+# Files too large for GitHub (>100MB hosted limit) — deposited locally
+combined.pdf
+vitalsource2.pdf
+vitalsource_book.pdf
+vitalsource_pages.tar.gz
+__pycache__/
+venv/
+vitalsource_pages/
